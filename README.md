@@ -1,6 +1,6 @@
 Hi, I'm Lekima Yakuden 
 
-- MSc student in [https://web.uvic.ca/~enissen/index.html](Edwin Nissen)'s earthquakes group at the University of Victoria, Canada
+- MSc student in [Edwin Nissen](https://web.uvic.ca/~enissen/index.html)'s earthquakes group at the University of Victoria, Canada
 - Interested in fault mechanics, both in the lab and from observations
 
 <!--
